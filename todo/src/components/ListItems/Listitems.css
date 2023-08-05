@@ -1,0 +1,13 @@
+ul{
+   list-style-type: none; 
+}
+li{
+    color: rgb(72, 57, 86);
+    font-size: 20px;
+    margin-top: 6px;
+}
+.cancel-icon{
+    color:  rgb(141, 69, 208);
+    margin-right: 7px;
+    margin-left: 14px;
+}

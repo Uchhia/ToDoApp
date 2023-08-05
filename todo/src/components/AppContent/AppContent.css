@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.app-content{
+    background-color: white;
+    height: 75%;
+    width: 45%;
+    border-radius: 15px;
+}

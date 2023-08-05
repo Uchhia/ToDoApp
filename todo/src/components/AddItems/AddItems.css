@@ -1,0 +1,33 @@
+input{
+    border: none;
+    width: 65%;
+    height: 75%;
+    font-size: 25px;
+    text-align: center;
+    border-bottom: 3px solid  rgb(141, 69, 208);
+}
+
+.add-items{
+    
+    margin-top: 10px;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.plus-icon{
+    margin-left:19px ;
+
+    
+    width:20%;
+}
+.icon{
+    color: rgb(141, 69, 208);;
+    height: 40px;
+    width: 40px;
+}
+.temp{
+    height: 100px;
+    width: 100%;
+    background-color: red;
+}
