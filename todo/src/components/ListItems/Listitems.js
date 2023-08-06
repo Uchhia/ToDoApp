@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faRectangleXmark } from '@fortawesome/free-solid-svg-icons';
-import { ListContext } from '../AddItems/AddItems';
+
 import './Listitems.css'
 
 function Listitems(props) {
